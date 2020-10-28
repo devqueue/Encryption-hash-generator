@@ -8,7 +8,7 @@ Depedencies:-
 * pyperclip
 
 
-:question: ABOUT :question:
+ABOUT :question:
 ----
 
 ![Image Demo](https://i.imgur.com/8MYNTVe.png)
