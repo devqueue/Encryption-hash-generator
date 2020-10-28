@@ -1,10 +1,6 @@
-Author:- Nomz#2168 
 
 
-# Timathon-Submission
-
-This is the Submission for Tech With Tim's Timathon Code Jam. 
-----
+# Encryption hash generator
 
 
 Depedencies:-
@@ -34,5 +30,3 @@ After setting it up just click Generate Button and it will generate a password f
 You can copy it to your clipboard. If you want to hide or show the password click on the Eye Close Icon to toggle it.
 
 -----
-
-Made with <3 by Nomz#2168
